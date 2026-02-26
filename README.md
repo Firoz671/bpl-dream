@@ -1,0 +1,3 @@
+- **Project name**: What is `bpl-dream`?
+- **Purpose**: What does it do? `A dynamic Dream 11 Cricket Team builder built with React and Tailwind CSS. Users can select up to 6 players based on available coins with real-time validation and toast notifications. Features include player selection management, coin deduction system, and responsive UI design.`?
+- **Technology stack**: What languages/frameworks are used? `HTML,TailwindCSS,JavaScript,React`
